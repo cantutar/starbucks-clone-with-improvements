@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  font-family: roboto;
+}
+.Navi {
+  font-family: Roboto;
+  font-weight: 700;
+}
+.t-color {
+  color: rgb(33, 33, 103) !important;
+}
+.t-color:hover {
+  color: #008248 !important;
+}
+.button-siyah {
+  background-color: black;
+  border-radius: 50px;
+  color: white;
+  padding: 7px 16px;
+  font-weight: 600;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  width: 100px;
+
+  /* width: 50px !important; */
+}
+.button-siyah:hover {
+  background-color: rgb(54, 54, 54) !important;
+  border-radius: 50px;
+  color: white;
+}
+.button-beyaz {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  color: black;
+  border-color: black !important;
+  font-weight: 600;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  background-color: white;
+  width: 100px;
+}
+.button-beyaz:hover {
+  background-color: rgb(253, 255, 254) !important;
+  border-radius: 50px;
+  color: black;
+}

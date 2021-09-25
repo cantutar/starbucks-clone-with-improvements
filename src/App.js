@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+// import logo from './logo.svg';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import { Route, Switch } from "react-router-dom";
+import Navi from "./Navi";
+import { Helmet } from "react-helmet";
+
+const Homepage = require("./util/Homepage.json");
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Helmet>
+        <title>{Homepage.pageTitle}</title>
+        <meta name="description"></meta>
+      </Helmet>
+      <Navi />
+      <Switch>
+        <Route exact path="/"></Route>
+      </Switch>
     </div>
   );
 }
