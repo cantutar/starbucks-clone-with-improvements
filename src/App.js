@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+import logo from "./images/logo.svg";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 import Navi from "./Navi";
@@ -13,6 +13,7 @@ function App() {
       <Helmet>
         <title>{Homepage.pageTitle}</title>
         <meta name="description"></meta>
+        <link rel="icon" type="image/png" href={logo} sizes="16x16" />
       </Helmet>
       <Navi />
       <Footer />
