@@ -45,7 +45,34 @@
   width: 100px;
 }
 .button-beyaz:hover {
-  background-color: rgb(253, 255, 254) !important;
+  background-color: lightgray !important;
   border-radius: 50px;
   color: black;
+}
+
+.uyari {
+  color: black;
+  font-size: 19px;
+}
+.uyari.a {
+  color: black !important;
+}
+
+.uyari.a:hover {
+  color: black !important;
+}
+
+.hero {
+  background-color: #d8e8e3;
+}
+
+.container-grid {
+  display: grid;
+  grid-template-columns: 0.7fr 0.7fr 1.2fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    ". . ."
+    ". . .";
 }
