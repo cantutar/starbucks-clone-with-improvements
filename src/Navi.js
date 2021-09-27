@@ -31,7 +31,7 @@ export default class Navi extends Component {
               />
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-            <Navbar.Collapse id="responsive-navbar-nav">
+            <Navbar.Collapse id="responsive-navbar-nav" children="">
               <Nav className="me-auto Navi">
                 <Nav.Link className="t-color" as={Link} to="/Menu">
                   MENU
