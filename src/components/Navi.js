@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import { Navbar, Container, Nav } from "react-bootstrap";
-import mainLogo from "./images/logo.svg";
+import mainLogo from "../images/logo.svg";
 import { Route, Switch, Link } from "react-router-dom";
-import "./css/style.css";
-import Home from "./Home";
-import Rewards from "./Rewards";
-import NotFound from "./NotFound";
-import Gifts from "./Gifts";
+import "../css/style.css";
+import Home from "../pages/Home";
+import Rewards from "../pages/Rewards";
+import NotFound from "../pages/NotFound";
+import Gifts from "../components/Gifts";
 
 export default class Navi extends Component {
   render() {

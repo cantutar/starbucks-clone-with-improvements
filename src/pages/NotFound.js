@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import logo from "./images/logo_tcm95-366_w1024_n.png";
-import "./css/style.css";
+import logo from "../images/logo_tcm95-366_w1024_n.png";
+import "../css/style.css";
 
 export default class NotFound extends Component {
   render() {

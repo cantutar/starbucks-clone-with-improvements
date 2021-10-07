@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import "../src/css/style.css";
-import footerLogo from "./images/wordmark_footer_tcm95-397.png";
+import "../css/style.css";
+import footerLogo from "../images/wordmark_footer_tcm95-397.png";
 
 export default class Footer extends Component {
   render() {

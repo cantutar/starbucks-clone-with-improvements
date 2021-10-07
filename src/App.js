@@ -1,9 +1,9 @@
 import logo from "./images/logo.svg";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
-import Navi from "./Navi";
+import Navi from "./components/Navi";
 import { Helmet } from "react-helmet";
-import Footer from "./Footer";
+import Footer from "./components/Footer";
 
 const Homepage = require("./util/Homepage.json");
 
