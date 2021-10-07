@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/starbucks-clone-with-improvements/static/css/main.4a3f0f9c.chunk.css",
+    "main.js": "/starbucks-clone-with-improvements/static/js/main.73499608.chunk.js",
+    "main.js.map": "/starbucks-clone-with-improvements/static/js/main.73499608.chunk.js.map",
+    "runtime-main.js": "/starbucks-clone-with-improvements/static/js/runtime-main.b6a3d23e.js",
+    "runtime-main.js.map": "/starbucks-clone-with-improvements/static/js/runtime-main.b6a3d23e.js.map",
+    "static/css/2.f2512455.chunk.css": "/starbucks-clone-with-improvements/static/css/2.f2512455.chunk.css",
+    "static/js/2.dffc6703.chunk.js": "/starbucks-clone-with-improvements/static/js/2.dffc6703.chunk.js",
+    "static/js/2.dffc6703.chunk.js.map": "/starbucks-clone-with-improvements/static/js/2.dffc6703.chunk.js.map",
+    "index.html": "/starbucks-clone-with-improvements/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/starbucks-clone-with-improvements/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.4a3f0f9c.chunk.css.map": "/starbucks-clone-with-improvements/static/css/main.4a3f0f9c.chunk.css.map",
+    "static/js/2.dffc6703.chunk.js.LICENSE.txt": "/starbucks-clone-with-improvements/static/js/2.dffc6703.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/starbucks-clone-with-improvements/static/media/salted.2a1fc450.png",
+    "static/media/logo.b12f39ad.svg": "/starbucks-clone-with-improvements/static/media/logo.b12f39ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a3d23e.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.dffc6703.chunk.js",
+    "static/css/main.4a3f0f9c.chunk.css",
+    "static/js/main.73499608.chunk.js"
+  ]
+}

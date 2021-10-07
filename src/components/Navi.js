@@ -1,12 +1,8 @@
 import React, { Component } from "react";
 import { Navbar, Container, Nav } from "react-bootstrap";
 import mainLogo from "../images/logo.svg";
-import { Route, Switch, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "../css/style.css";
-import Home from "../pages/Home";
-import Rewards from "../pages/Rewards";
-import NotFound from "../pages/NotFound";
-import Gifts from "../components/Gifts";
 
 export default class Navi extends Component {
   render() {
@@ -63,18 +59,6 @@ export default class Navi extends Component {
             </Navbar.Collapse>
           </Container>
         </Navbar>
-
-        <Switch>
-          <Route exact path="/" component={Home} />
-          <Route path="/gift">
-            <Gifts />
-          </Route>
-          <Route path="/rewards" component={Rewards} />
-
-          <Route component={NotFound}>
-            <NotFound />
-          </Route>
-        </Switch>
       </div>
     );
   }
