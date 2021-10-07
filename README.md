@@ -21,10 +21,12 @@
 <p>When i saw a crappy version of turkish starbucks and i asked myself can i do better than started this project remember <strong>THIS PROJECT IS STILL UNDER DEVELOPMENT.</strong></p>
 
 <h3>TODOS</h4>
-Live Demo for github
-Coffee Lists
-Add menus
-Thinking  to add backend login pages
+    <ul>
+        <li>Live Demo for github</li>
+        <li>Coffee Lists</li>
+        <li>Add menus</li>
+        <li>Thinking to add backend login pages</li>
+    </ul>
 
 ## Demo and comparison(Image)
 
