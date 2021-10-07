@@ -25,7 +25,7 @@
 
 ## Demo and comparison(Image)
 
-Live demo atm not available i will be gonna add it in future 😄
+[LIVE DEMO](https://cantutar.github.io/starbucks-clone-with-improvements/) 😄
 
 ![Original site](https://i.imgur.com/YaxcDCb.png)
 ![My Homepage](https://i.imgur.com/bDESTDY.png)
