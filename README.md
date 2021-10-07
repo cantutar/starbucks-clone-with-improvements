@@ -20,13 +20,8 @@
 
 <p>When i saw a crappy version of turkish starbucks and i asked myself can i do better than started this project remember <strong>THIS PROJECT IS STILL UNDER DEVELOPMENT.</strong></p>
 
-<h3>TODOS</h4>
-    <ul>
-        <li>Live Demo for github</li>
-        <li>Coffee Lists</li>
-        <li>Add menus</li>
-        <li>Thinking to add backend login pages</li>
-    </ul>
+
+[<h3>TODOS AND ISSUES</h4>](https://github.com/cantutar/starbucks-clone-with-improvements/projects/1)
 
 ## Demo and comparison(Image)
 
