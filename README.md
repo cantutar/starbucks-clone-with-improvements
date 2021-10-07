@@ -45,6 +45,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 At the moment build isn't ready because im keep improving the project if you still wanna look at the result:
 
 Clone the project with git bash and run:
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
